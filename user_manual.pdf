@@ -1,0 +1,39 @@
+# Cosmic Ray Detector (CRD) User Manual
+
+## Introduction
+Welcome to the Cosmic Ray Detector (CRD) user manual. This manual will guide you through the setup, operation, and maintenance of your CRD. The CRD is a device designed to detect and analyze cosmic rays, high-energy particles from outer space. It serves as an educational tool for enthusiasts, students, or amateur astronomers interested in cosmic ray observation and space science.
+
+## Getting Started
+
+### Components
+Refer to the Bill of Materials (BOM) for a detailed list of components used in the CRD. The BOM includes the quantity, manufacturer, part number, and description of each component.
+
+### Assembly
+Follow the detailed schematics and PCB layout provided in the 'schematics.pdf' and 'crd_pcb_layout.kicad_pcb' files to assemble your CRD.
+
+## Operation
+
+### Powering On
+Connect the device to a power source. Ensure the power source is stable to avoid any damage to the device.
+
+### Cosmic Ray Detection
+The CRD is equipped with a Geiger counter and a scintillation detector for cosmic ray detection. When a cosmic ray is detected, the device will increment the cosmic ray count and store the data for analysis.
+
+### User Interface
+The user interface consists of LEDs and buttons. The LEDs indicate the status of the device and the buttons are used for user interaction.
+
+### Data Logging
+The CRD logs the cosmic ray count and the corresponding data at regular intervals. This data can be accessed and analyzed for research purposes.
+
+## Maintenance
+Ensure the device is kept in a safe and dry environment. Regularly check the device for any signs of damage or wear. If any component appears to be damaged, replace it immediately to avoid any malfunction.
+
+## Safety Instructions
+Due to the high-energy nature of cosmic rays, it is crucial to handle the device with care. Do not attempt to disassemble the device while it is powered on. Always follow the manufacturer's instructions when replacing components.
+
+## Troubleshooting
+If the device is not functioning as expected, refer to the 'simulation_test_results.txt' file for potential issues and their solutions.
+
+## Conclusion
+The Cosmic Ray Detector offers a hands-on experience in space science and particle physics. It not only provides a practical application of electronics design but also opens a window into the fascinating world of cosmic ray physics. Enjoy your journey into the cosmos!
+

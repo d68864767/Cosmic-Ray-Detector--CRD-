@@ -1,0 +1,14 @@
+#
+# Component_Name
+#
+DEF Component_Name U 0 40 Y Y 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "Component_Name" 0 0 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S 0 0 0 0 0 1 0 N
+X Pin_Name 1 0 0 0 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#

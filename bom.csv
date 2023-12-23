@@ -1,0 +1,11 @@
+Component,Quantity,Manufacturer,Part Number,Description
+Geiger Counter,1,Manufacturer_Name,Part_Number,Used for cosmic ray detection
+Scintillation Detector,1,Manufacturer_Name,Part_Number,Used for cosmic ray detection
+Amplifier,1,Manufacturer_Name,Part_Number,Used in signal processing circuit for amplifying sensor signals
+Analog to Digital Converter,1,Manufacturer_Name,Part_Number,Used in signal processing circuit for converting sensor signals to digital data
+Microcontroller,1,Manufacturer_Name,Part_Number,Used for controlling the device, processing data, and managing user interface
+Resistors,10,Manufacturer_Name,Part_Number,Used in various parts of the circuits
+Capacitors,10,Manufacturer_Name,Part_Number,Used in various parts of the circuits
+LEDs,5,Manufacturer_Name,Part_Number,Used for user interface
+Buttons,5,Manufacturer_Name,Part_Number,Used for user interface
+PCB,1,Manufacturer_Name,Part_Number,Used for mounting and connecting all the components

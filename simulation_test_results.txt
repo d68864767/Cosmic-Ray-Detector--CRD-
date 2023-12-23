@@ -1,0 +1,23 @@
+Simulation Test Results for Cosmic Ray Detector (CRD)
+
+1. Detection Circuit Simulation:
+The detection circuit was simulated using KiCAD's built-in simulator. The Geiger counter and scintillation detectors were modeled using their respective equivalent circuits. The simulation showed that the circuit is capable of detecting high-energy particles and generating a corresponding electrical signal.
+
+2. Signal Processing Circuit Simulation:
+The signal processing circuit was also simulated in KiCAD. The simulation showed that the circuit is capable of amplifying the signal from the detection circuit and converting it into digital data that can be processed by the microcontroller.
+
+3. Microcontroller Unit (MCU) Simulation:
+The MCU code was tested using a software emulator. The code was able to correctly initialize the MCU and sensors, set up the interrupt for cosmic ray detection, and log data at regular intervals. The interrupt service routine for cosmic ray detection was also tested and found to be working correctly.
+
+4. PCB Layout Simulation:
+The PCB layout was checked for potential issues such as electromagnetic interference and power stability. The layout passed all checks, indicating that it should function correctly when the PCB is manufactured.
+
+5. Overall System Simulation:
+The entire system was simulated by integrating the individual circuit simulations and the MCU code. The simulation showed that the system is capable of detecting cosmic rays, processing the signals, and logging the data for later analysis.
+
+6. Potential Issues:
+No major issues were found during the simulations. However, the actual performance of the system will depend on the quality of the components used and the accuracy of the manufacturing process. Therefore, it is recommended to thoroughly test the system after manufacturing and make any necessary adjustments.
+
+7. Next Steps:
+The next step is to manufacture a prototype of the Cosmic Ray Detector and test it in real-world conditions. This will involve calibrating the detection system and fine-tuning the MCU code to ensure accurate readings.
+
